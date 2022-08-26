@@ -1,4 +1,4 @@
-# dotfiles - main
+# dotfiles - archLinux-default
 
 ## Setup git
 
@@ -14,7 +14,7 @@ install `github-cli`
 ## Upload
 
 `dot remote add origin https://github.com/agneuser/dotfiles.git`  
-`dot push -u origin main`
+`dot push -u origin archLinux-default`
 
 ## Add files
 
